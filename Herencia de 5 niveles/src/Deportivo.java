@@ -8,6 +8,7 @@ public class Deportivo extends Auto {
         this.n_puertas = n_puertas;
     }
 
+
     public int getN_chasis(){
         return n_chasis;
     }
